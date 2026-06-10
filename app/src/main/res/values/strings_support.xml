@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">Samvixo</string>
+    <string name="powered_by">Powered by Nexuzy Lab</string>
+    <string name="app_tagline">Connect. Chat. Discover.</string>
+    <string name="developer_name">David</string>
+    <string name="company_name">Devil One Pvt Ltd</string>
+    <string name="website">https://devilone.in</string>
+
+    <!-- Support -->
+    <string name="contact_us_title">Contact Us</string>
+    <string name="contact_us_desc">Have a question or need help? Reach out to the Samvixo team.</string>
+    <string name="support_email">support@devilone.in</string>
+    <string name="about_us_title">About Samvixo</string>
+    <string name="about_us_desc">Samvixo is a next-generation messaging platform powered by Nexuzy Lab. Built for secure, fast, and intelligent communication.</string>
+    <string name="inbox_title">Inbox</string>
+    <string name="inbox_empty">No messages from the Samvixo team yet.</string>
+
+    <!-- Legal -->
+    <string name="terms_title">Terms &amp; Conditions</string>
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="terms_url">https://devilone.in/samvixo/terms</string>
+    <string name="privacy_url">https://devilone.in/samvixo/privacy</string>
+
+    <!-- Invite -->
+    <string name="invite_title">Invite a Friend</string>
+    <string name="invite_message">Hey! Try Samvixo — a smarter way to chat. Download it here: https://samvixo.nexuzy.com/invite</string>
+
+    <!-- AI -->
+    <string name="ai_name">Devil AI</string>
+    <string name="ai_chat_hint">Ask Devil AI anything…</string>
+    <string name="ai_notes_title">AI Notes</string>
+    <string name="ai_vault_title">AI Vault</string>
+    <string name="ai_thinking">Devil AI is thinking…</string>
+    <string name="ai_error">Couldn\u2019t connect to Devil AI. Please try again.</string>
+
+    <!-- Status -->
+    <string name="status_title">Status</string>
+    <string name="status_empty">No status updates yet.</string>
+    <string name="status_add">Add Status</string>
+    <string name="status_expires">Expires in 24 hours</string>
+
+    <!-- Errors -->
+    <string name="error_no_internet">No internet connection.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_country_not_supported">Samvixo is not available in your region yet.</string>
+
+    <!-- Country -->
+    <string name="select_country">Select Country</string>
+    <string name="default_country">India (+91)</string>
+</resources>
