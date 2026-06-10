@@ -1,0 +1,6 @@
+{
+  "name": "samvixo",
+  "description": "samvixo: Extreme-security communications portal, offline P2P mesh, integrated App Locker, Secret Chats screenshot alerting, Devil AI, OpenMeteo live weather forecasts, and AdMob premium simulated integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
